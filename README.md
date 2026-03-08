@@ -22,13 +22,15 @@
 
 - ✅ **1,008,342 RAI** voting power
 - ✅ **10,000+** compute jobs processed
-- ✅ **2 open PRs** to RepublicAI/networks (pending review)
+- ✅ **4 open PRs** to RepublicAI/networks (pending review)
 - ✅ **Developer role** recipient
 
 ## 🤝 Contributions
 
+- [PR #24](https://github.com/RepublicAI/networks/pull/24) — Troubleshooting Guide
 - [PR #26](https://github.com/RepublicAI/networks/pull/26) — WSL2 Windows GPU Validator Setup Guide
 - [PR #27](https://github.com/RepublicAI/networks/pull/27) — GPU Compute Jobs Guide
+- [PR #30](https://github.com/RepublicAI/networks/pull/30) — Ubuntu 24.04 LTS Guide
 - [PR #2259](https://github.com/OpenMind/OM1/pull/2259) — OpenMind OM1
 
 ## 🔧 Tech Stack
