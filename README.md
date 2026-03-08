@@ -41,5 +41,6 @@
 ## 🔗 Links
 
 - 🌐 [Dashboard](https://erhnysr.github.io/republic-ai-node)
+- 🐦 [Twitter/X](https://x.com/Erhnyasar)
 - 💬 Discord: erhnysr
 - 🔗 Validator: raivaloper1xnjkyyggaz54288vtrsle9wjwqz5tz4lttk8ka
