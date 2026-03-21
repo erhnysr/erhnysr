@@ -39,7 +39,7 @@
 - [PR #2259](https://github.com/OpenMind/OM1/pull/2259) — OpenMind OM1
 - [PR #1118](https://github.com/NousResearch/hermes-agent/pull/1118) — Turkish Locale Skill Pack for Hermes Agent
 - [PR #1822](https://github.com/NousResearch/hermes-agent/pull/1822) — fix(context_compressor): replace print() calls with logger — cherry-picked by @teknium1
-
+- [PR #2](https://github.com/NousResearch/autonovel/pull/2) — fix(run_pipeline): remove redundant f.close() and inline json import — **Merged** ✅
 ## 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
