@@ -80,6 +80,20 @@ Built systems for:
 * 🔹 **[republic-discord-bot](https://github.com/erhnysr/republic-discord-bot)** → Monitoring & alerts
 * 🔹 **[republic-points-tracker](https://github.com/erhnysr/republic-points-tracker)** → Performance tracking
 
+## 🚀 Featured Project
+
+### Republic AI Node Toolkit
+
+Production-grade automation and monitoring system for Republic AI nodes.
+
+Includes:
+- VPS validator watchdog
+- WSL compute monitoring
+- GPU health checks
+- Telegram alert system
+
+👉 https://github.com/erhnysr/republic-ai-node
+
 ### Experimental / Ecosystem Work
 
 * 🔹 Shelby ecosystem tooling & testing
