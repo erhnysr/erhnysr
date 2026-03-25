@@ -63,11 +63,11 @@ Built systems for:
 
 ## 📊 Performance
 
-* **Top validator (active set)**
-* **11,000,000+ voting power**
-* **94%+ job success rate**
-* **700,000+ completed jobs**
-* **24/7 uptime infrastructure**
+* 🚀 **Top validator (active set)**
+* 💰 **11,000,000+ voting power**
+* 📈 **94%+ job success rate**
+* ⚙️ **700,000+ completed jobs**
+* 🟢 **24/7 uptime infrastructure**
 
 ---
 
@@ -75,10 +75,10 @@ Built systems for:
 
 ### Infrastructure & Tooling
 
-* 🔹 [republic-ai-node](https://github.com/erhnysr/republic-ai-node) → Node setup + automation system
-* 🔹 [republic-job-orchestrator](https://github.com/erhnysr/republic-job-orchestrator) → Job execution pipeline
-* 🔹 [republic-discord-bot](https://github.com/erhnysr/republic-discord-bot) → Monitoring & alerts
-* 🔹 [republic-points-tracker](https://github.com/erhnysr/republic-points-tracker) → Performance tracking
+* 🔹 **[republic-ai-node](https://github.com/erhnysr/republic-ai-node)** → Node setup + automation system
+* 🔹 **[republic-job-orchestrator](https://github.com/erhnysr/republic-job-orchestrator)** → Job execution pipeline
+* 🔹 **[republic-discord-bot](https://github.com/erhnysr/republic-discord-bot)** → Monitoring & alerts
+* 🔹 **[republic-points-tracker](https://github.com/erhnysr/republic-points-tracker)** → Performance tracking
 
 ### Experimental / Ecosystem Work
 
@@ -104,9 +104,9 @@ Built systems for:
 
 ## ⚡ Philosophy
 
-> Stability > hype
-> Automation > manual fixes
-> Real performance > theoretical setups
+> Stability over hype
+> Automation over manual fixes
+> Real performance over theoretical setups
 
 ---
 
@@ -117,5 +117,14 @@ Everything is built from **real production issues**:
 * Tested under live network conditions
 * Designed for failure recovery
 * Optimized for long-term stability
+
+---
+
+## 🧠 Final Note
+
+Focused on building reliable, automated, and production-ready infrastructure
+for decentralized AI systems.
+
+Continuously improving based on real-world performance.
 
 ---
