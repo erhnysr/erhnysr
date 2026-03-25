@@ -1,4 +1,4 @@
-# ⚡ ErhNode
+ ⚡ ErhNode
 
 **Decentralized AI Infrastructure Engineer**
 Validator Node Operator • GPU Compute • LLM Inference
