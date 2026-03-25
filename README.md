@@ -25,9 +25,9 @@ Focused on:
 
 Active across:
 
-* Republic AI
-* Shelby AI
-* Nous (Hermes ecosystem)
+* 🟢 Republic AI
+* 🟣 Shelby AI
+* 🔵 Nous (Hermes ecosystem)
 
 ---
 
@@ -98,6 +98,8 @@ Built systems for:
 
 ## 🌐 Validator
 
+**Operator Address:**
+
 `raivaloper1xnjkyyggaz54288vtrsle9wjwqz5tz4lttk8ka`
 
 ---
@@ -125,6 +127,6 @@ Everything is built from **real production issues**:
 Focused on building reliable, automated, and production-ready infrastructure
 for decentralized AI systems.
 
-Continuously improving based on real-world performance.
+Continuously improving through real-world usage, not theory.
 
 ---
