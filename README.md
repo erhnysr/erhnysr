@@ -1,4 +1,11 @@
- ⚡ ErhNode
+# ⚡ ErhNode
+
+Building reliable decentralized AI infrastructure across multiple ecosystems.
+
+![Status](https://img.shields.io/badge/status-active-green)
+![Focus](https://img.shields.io/badge/focus-AI%20Infrastructure-blue)
+
+---
 
 **Decentralized AI Infrastructure Engineer**
 Validator Node Operator • GPU Compute • LLM Inference
@@ -40,7 +47,7 @@ Built systems for:
 
 * Automated job execution loops (submit → run → validate → repeat)
 * GPU-based inference pipelines with thermal control
-* Manual tx patching & signing workflows (bech32 bug fixes)
+* Manual transaction fixes and signing workflows (bech32 issues)
 * Endpoint stabilization and tunnel recovery
 * Validator + compute node coordination
 
@@ -68,10 +75,10 @@ Built systems for:
 
 ### Infrastructure & Tooling
 
-* 🔹 republic-ai-node → Node setup + automation system
-* 🔹 republic-job-orchestrator → Job execution pipeline
-* 🔹 republic-discord-bot → Monitoring & alerts
-* 🔹 republic-points-tracker → Performance tracking
+* 🔹 [republic-ai-node](https://github.com/erhnysr/republic-ai-node) → Node setup + automation system
+* 🔹 [republic-job-orchestrator](https://github.com/erhnysr/republic-job-orchestrator) → Job execution pipeline
+* 🔹 [republic-discord-bot](https://github.com/erhnysr/republic-discord-bot) → Monitoring & alerts
+* 🔹 [republic-points-tracker](https://github.com/erhnysr/republic-points-tracker) → Performance tracking
 
 ### Experimental / Ecosystem Work
 
@@ -86,6 +93,12 @@ Built systems for:
 * **WSL2** → GPU Inference Node
 * **Cloudflare** → Endpoint layer
 * **Automation Layer** → Watchdog + self-healing
+
+---
+
+## 🌐 Validator
+
+`raivaloper1xnjkyyggaz54288vtrsle9wjwqz5tz4lttk8ka`
 
 ---
 
