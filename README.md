@@ -80,6 +80,12 @@ Built systems for:
 * 🔹 **[republic-discord-bot](https://github.com/erhnysr/republic-discord-bot)** → Monitoring & alerts
 * 🔹 **[republic-points-tracker](https://github.com/erhnysr/republic-points-tracker)** → Performance tracking
 
+### Experimental / Ecosystem Work
+
+* 🔹 Shelby ecosystem tooling & testing
+* 🔹 Nous / Hermes inference experiments
+
+
 ## 🚀 Featured Project
 
 ### Republic AI Node Toolkit
@@ -93,12 +99,6 @@ Includes:
 - Telegram alert system
 
 👉 https://github.com/erhnysr/republic-ai-node
-
-### Experimental / Ecosystem Work
-
-* 🔹 Shelby ecosystem tooling & testing
-* 🔹 Nous / Hermes inference experiments
-
 ---
 
 ## 🧩 Architecture
