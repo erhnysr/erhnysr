@@ -1,146 +1,49 @@
-# ⚡ ErhNode
+# Hi, I'm Erhan 👋
 
-Building reliable decentralized AI infrastructure across multiple ecosystems.
+Open-source contributor working on AI agents, backend systems, and real-world infrastructure.
 
-![Status](https://img.shields.io/badge/status-active-green)
-![Focus](https://img.shields.io/badge/focus-AI%20Infrastructure-blue)
+## What I'm doing now
 
----
+Recently contributing to **NousResearch / Hermes Agent** with fixes around:
 
-**Decentralized AI Infrastructure Engineer**
-Validator Node Operator • GPU Compute • LLM Inference
+- HERMES_HOME path correctness
+- installer/setup reliability
+- API/session behavior
+- developer experience
 
----
+## Recent OSS Contributions
 
-## 🚀 Overview
+### NousResearch / Hermes Agent
+- Fixed hardcoded ~/.hermes path assumptions
+- Improved HERMES_HOME handling
+- Stable session_id logic for chat API
 
-ErhNode builds and operates **production-grade decentralized AI infrastructure** across multiple ecosystems.
+### Autonovel
+- Code cleanup & small improvements
 
-Focused on:
+### Republic AI
+- Validator infra
+- GPU + WSL2 ops
+- automation & monitoring
 
-* Validator operations
-* GPU inference pipelines
-* Automation & self-healing systems
-* Real-world workload optimization
+## Focus Areas
 
-Active across:
+- AI agents
+- backend systems
+- infra reliability
+- automation
 
-* 🟢 Republic AI
-* 🟣 Shelby AI
-* 🔵 Nous (Hermes ecosystem)
+## Links
 
----
+Hermes PRs:
+- https://github.com/NousResearch/hermes-agent/pull/3840
+- https://github.com/NousResearch/hermes-agent/pull/3232
+- https://github.com/NousResearch/hermes-agent/pull/3205
+- https://github.com/NousResearch/hermes-agent/pull/3622
 
-## 🔧 Core Work
-
-* ⚙️ Running **validator infrastructure (Republic AI)**
-* 🧠 Operating **GPU inference pipelines (WSL2 + CUDA)**
-* 🌐 Managing **public endpoints (Cloudflare Tunnel)**
-* 🛡 Developing **automation, watchdog, and recovery systems**
-* 📊 Optimizing **job execution pipelines and success rate**
-
----
-
-## 🧠 Infrastructure Engineering
-
-Built systems for:
-
-* Automated job execution loops (submit → run → validate → repeat)
-* GPU-based inference pipelines with thermal control
-* Manual transaction fixes and signing workflows (bech32 issues)
-* Endpoint stabilization and tunnel recovery
-* Validator + compute node coordination
+Autonovel:
+- https://github.com/NousResearch/autonovel/pull/2
 
 ---
 
-## 🧩 Ecosystem Involvement
-
-* 🟢 **Republic AI** → Validator + tooling ecosystem
-* 🟣 **Shelby AI** → Early access participant
-* 🔵 **Nous (Hermes)** → Inference / tooling experimentation
-
----
-
-## 📊 Performance
-
-* 🚀 **Top validator (active set)**
-* 💰 **11,000,000+ voting power**
-* 📈 **94%+ job success rate**
-* ⚙️ **700,000+ completed jobs**
-* 🟢 **24/7 uptime infrastructure**
-
----
-
-## 🔧 Projects
-
-### Infrastructure & Tooling
-
-* 🔹 **[republic-ai-node](https://github.com/erhnysr/republic-ai-node)** → Node setup + automation system
-* 🔹 **[republic-job-orchestrator](https://github.com/erhnysr/republic-job-orchestrator)** → Job execution pipeline
-* 🔹 **[republic-discord-bot](https://github.com/erhnysr/republic-discord-bot)** → Monitoring & alerts
-* 🔹 **[republic-points-tracker](https://github.com/erhnysr/republic-points-tracker)** → Performance tracking
-
-### Experimental / Ecosystem Work
-
-* 🔹 Shelby ecosystem tooling & testing
-* 🔹 Nous / Hermes inference experiments
-
-
-## 🚀 Featured Project
-
-### Republic AI Node Toolkit
-
-Production-grade automation and monitoring system for Republic AI nodes.
-
-Includes:
-- VPS validator watchdog
-- WSL compute monitoring
-- GPU health checks
-- Telegram alert system
-
-👉 https://github.com/erhnysr/republic-ai-node
----
-
-## 🧩 Architecture
-
-* **VPS** → Validator / Full Node
-* **WSL2** → GPU Inference Node
-* **Cloudflare** → Endpoint layer
-* **Automation Layer** → Watchdog + self-healing
-
----
-
-## 🌐 Validator
-
-**Operator Address:**
-
-`raivaloper1xnjkyyggaz54288vtrsle9wjwqz5tz4lttk8ka`
-
----
-
-## ⚡ Philosophy
-
-> Stability over hype
-> Automation over manual fixes
-> Real performance over theoretical setups
-
----
-
-## 🧠 Focus
-
-Everything is built from **real production issues**:
-
-* Tested under live network conditions
-* Designed for failure recovery
-* Optimized for long-term stability
-
----
-
-## 🧠 Final Note
-
-Focused on building reliable, automated, and production-ready infrastructure
-for decentralized AI systems.
-
-Continuously improving through real-world usage, not theory.
-
----
+Always shipping.
