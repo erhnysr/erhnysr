@@ -44,6 +44,6 @@ Hermes PRs:
 Autonovel:
 - https://github.com/NousResearch/autonovel/pull/2
 
----
+--- Working with NousResearch ecosystem (Hermes Agent)
 
 Always shipping.
