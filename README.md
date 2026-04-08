@@ -26,6 +26,18 @@ Recently contributing to **NousResearch / Hermes Agent** with fixes around:
 - GPU + WSL2 ops
 - automation & monitoring
 
+### Base Ecosystem
+Active contributor to Base Docs
+Focused on:
+RPC configuration clarity
+deployment reliability
+onboarding improvements
+Opened issue-driven fixes and shipped multiple PRs
+
+### Shelby
+Early access participant
+Contributing at ecosystem & infrastructure level
+
 ## Focus Areas
 
 - AI agents
