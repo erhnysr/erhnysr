@@ -14,16 +14,23 @@
 
 **tipping.base** — On-chain tipping app on Base mainnet.
 
+**Shelby Vibe Storage** — Decentralized file storage app on Shelby testnet with drag-and-drop UI, Explorer links, and download counter.
+`Live: shelby-vibe-storage-production.up.railway.app`
+
 ---
 
 ### 🤝 Open Source Contributions
 
 | Project | Focus |
 |---|---|
-| `NousResearch/hermes-agent` | Cron skill-index scoping, Windows UTF-8 compatibility, egress firewall follow-ups |
-| `base/node`, `base/docs`, `base/blob-archiver`, `base/benchmark` | Security fixes, docs, graceful shutdown, terminology fixes |
+| `Shelby Protocol / examples` | PR #32 — full-stack `file-sharing` example using Shelby Node SDK + Aptos ts-sdk, SHA-256 verified uploads |
+| `NousResearch/hermes-agent` | PR #3840, #3232, #3205, #3622 — fixed hardcoded `~/.hermes` path assumptions, improved `HERMES_HOME` handling, stable `session_id` logic |
+| `base/docs` | RPC configuration clarity, deployment reliability, onboarding improvements |
+| `base/node`, `base/blob-archiver`, `base/benchmark` | Security fixes, graceful shutdown, terminology fixes |
 | `circlefin/skills` | Refund protocol documentation, antipattern & security write-ups |
 | `fermah-xyz/fermah-docs` | Documentation & infra contributions |
+| `Autonovel` | PR #2 — code cleanup and improvements |
+| `Republic AI` | Validator infra, GPU + WSL2 ops, automation and monitoring |
 
 I generally look for **security fixes, cross-platform bugs, and documentation gaps** — the kind of contributions that make a codebase more reliable for the next person.
 
@@ -31,5 +38,5 @@ I generally look for **security fixes, cross-platform bugs, and documentation ga
 
 ### 🧱 Tech & Ecosystems
 
-`Solidity` `Rust` `TypeScript` `Node.js` `Foundry`
-Base · Arc Testnet · Aptos · Ritual · Fermah · Nous Research
+`Solidity` `Rust` `TypeScript` `Node.js` `Python` `Foundry` `Express` `Next.js`
+Base · Arc Testnet · Aptos · Shelby · Ritual · Fermah · Nous Research · Republic AI
