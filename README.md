@@ -7,10 +7,12 @@
 
 ### 🚀 Projects
 
-**[Coliseum](#)** — Public judging market protocol, deployed on Arc Testnet. Community-tested arena creation and voting flow.
+**[Coliseum](https://coliseum-arc.vercel.app)** — Public judging market protocol, deployed on Arc Testnet. Community-tested arena creation and voting flow.
+📝 [Read the writeup](https://medium.com/@erhnysr/why-a-five-cent-vote-only-makes-sense-on-arc-71a95b298191)
 
-**Basedrop** — USDC drop & claim platform on Base mainnet. Creators lock funds in escrow, users claim via a public feed.
+**[Basedrop](https://basedrop-chi.vercel.app)** — USDC drop & claim platform on Base mainnet. Creators lock funds in escrow, users claim via a public feed.
 `Live · Smart contract verified on Base Mainnet`
+📝 [Read the writeup](https://medium.com/@erhnysr/i-made-my-app-chargeable-by-ai-agents-without-ever-giving-out-an-api-key-4cd25a78e4df)
 
 **tipping.base** — On-chain tipping app on Base mainnet.
 
